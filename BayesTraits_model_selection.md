@@ -1,15 +1,4 @@
----
-title: "BayesTraits Model Selection"
-author: "Luca Pozzi"
-date: "8/25/2019"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Bayes Traits analyses
+## Bayes Traits Model Selection
 
 In this document I describe the basic code used to identify the model best supported by the data using the reversible-jump (RJ) procedure in the software ["BayesTraits"](http://www.evolution.rdg.ac.uk/BayesTraitsV3.0.1/BayesTraitsV3.0.1.html).
 
